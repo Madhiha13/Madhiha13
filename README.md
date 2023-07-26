@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Visual engine project  using python on ubuntu.
+Enthusiastic CS student with a focus on front-end development, data structures, and Java. Adept at problem-solving and fostering teamwork with strong leadership skills. Embracing continuous learning and personal growth. Let's connect for impactful solutions. Explore my portfolio and accomplishments. Open to collaboration. Remember, in the world of algorithms, kindness and laughter are the best shortcuts!
 
 
 ## 🌐 Socials:
